@@ -1,0 +1,6 @@
+<LanguageDescriptor>
+  <languageName>OpenIDAMS</languageName>
+  <compilerClass>script.openidams.compiler.OpenIDAMSCompiler</compilerClass>
+  <interpreterClass>script.openidams.interpreter.OpenIDAMSInterpreter</interpreterClass>
+  <scriptFileExtension>.ois</scriptFileExtension>
+</LanguageDescriptor>

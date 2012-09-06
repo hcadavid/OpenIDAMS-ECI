@@ -1,0 +1,29 @@
+<DataSetDefinition>
+  <dataSetName>winidamsdataset</dataSetName>
+  <dataSourceName>WinIDAMS</dataSourceName>
+  <dataSourceMetadata>
+    <entry>
+      <string>dictfile</string>
+      <string>educ.dic</string>
+    </entry>
+    <entry>
+      <string>datafile</string>
+      <string>educ.dat</string>
+    </entry>
+  </dataSourceMetadata>
+  <dictionaryName>xx</dictionaryName>
+  <variableToColumnMapping>
+    <entry>
+      <string>b</string>
+      <int>1</int>
+    </entry>
+    <entry>
+      <string>a</string>
+      <int>0</int>
+    </entry>
+    <entry>
+      <string>h</string>
+      <int>4</int>
+    </entry>
+  </variableToColumnMapping>
+</DataSetDefinition>

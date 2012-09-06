@@ -1,0 +1,33 @@
+<procedureDescriptor>
+  <procedureClassName>plugins.procedures.ExcelDatasetCreationProcedure</procedureClassName>
+  <procProperties>
+	<name>excel</name>
+	<parameters>
+		<parameter>
+			<name>Name</name>
+			<type>1</type>
+			<mandatory>true</mandatory>
+		</parameter>
+		<parameter>
+			<name>File</name>
+			<type>1</type>
+			<mandatory>true</mandatory>
+		</parameter>
+		<parameter>
+			<name>Dict</name>
+			<type>1</type>
+			<mandatory>true</mandatory>
+		</parameter>
+		<parameter>
+			<name>Worksheet</name>
+			<type>1</type>
+			<mandatory>true</mandatory>
+		</parameter>
+		<parameter>
+			<name>FirstRow</name>
+			<type>1</type>
+			<mandatory>false</mandatory>
+		</parameter>
+	</parameters>
+  </procProperties>
+</procedureDescriptor>

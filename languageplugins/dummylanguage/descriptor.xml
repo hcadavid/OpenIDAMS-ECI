@@ -1,0 +1,6 @@
+<LanguageDescriptor>
+  <languageName>DummyLanguage</languageName>
+  <compilerClass>temp.deleteme.DummyCompiler</compilerClass>
+  <interpreterClass>temp.deleteme.DummyInterpreter</interpreterClass>
+  <scriptFileExtension>.dummy</scriptFileExtension>
+</LanguageDescriptor>

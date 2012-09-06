@@ -1,0 +1,22 @@
+<Dictionary>
+  <basicVariables>
+    <DictionaryVariable>
+      <dataType>N</dataType>
+      <name>r</name>
+      <label>r</label>
+      <description>age</description>
+    </DictionaryVariable>
+    <DictionaryVariable>
+      <dataType reference="../../DictionaryVariable/dataType"/>
+      <name>s</name>
+      <label>s</label>
+      <description>s variable</description>
+    </DictionaryVariable>
+    <DictionaryVariable>
+      <dataType reference="../../DictionaryVariable/dataType"/>
+      <name>yy</name>
+      <label>yy</label>
+      <description>salary</description>
+    </DictionaryVariable>
+  </basicVariables>
+</Dictionary>

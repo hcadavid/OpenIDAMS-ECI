@@ -1,0 +1,4 @@
+<Descriptor>
+  <datatableName>Excel</datatableName>
+  <datatableClassName>plugins.data.ExcelDataTable</datatableClassName>
+</Descriptor>

@@ -1,0 +1,33 @@
+<procedureDescriptor>
+  <procedureClassName>plugins.procedures.DictionaryCreationProcedure</procedureClassName>
+  <procProperties>
+	<name>dictionary</name>
+	<parameters>
+		<parameter>
+			<name>Name</name>
+			<type>1</type>
+			<mandatory>true</mandatory>
+		</parameter>
+		<parameter>
+			<name>UseDict</name>
+			<type>1</type>
+			<mandatory>false</mandatory>
+		</parameter>
+		<parameter>
+			<name>Variable</name>
+			<type>1</type>
+			<mandatory>false</mandatory>
+		</parameter>
+		<parameter>
+			<name>Filter</name>
+			<type>1</type>
+			<mandatory>false</mandatory>
+		</parameter>
+		<parameter>
+			<name>Recode</name>
+			<type>1</type>
+			<mandatory>false</mandatory>
+		</parameter>
+	</parameters>
+  </procProperties>
+</procedureDescriptor>

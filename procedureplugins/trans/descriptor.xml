@@ -1,0 +1,19 @@
+<procedureDescriptor>
+  <procedureClassName>plugins.procedures.TransProcedure</procedureClassName>
+  <procProperties>
+	<name>trans</name>
+	<parameters>
+		<parameter>
+			<name>InputDataSet</name>
+			<type>1</type>
+			<mandatory>true</mandatory>
+		</parameter>
+		<parameter>
+			<name>OutputDataSetName</name>
+			<type>1</type>
+			<mandatory>true</mandatory>
+		</parameter>
+	</parameters>
+	<end>end</end>	
+  </procProperties>
+</procedureDescriptor>

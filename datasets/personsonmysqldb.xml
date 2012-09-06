@@ -1,0 +1,37 @@
+<DataSetDefinition>
+  <dataSetName>personsonmysqldb</dataSetName>
+  <dataSourceName>MySQL</dataSourceName>
+  <dataSourceMetadata>
+    <entry>
+      <string>connectionstring</string>
+      <string>jdbc:mysql://localhost:3306/dbprueba</string>
+    </entry>
+    <entry>
+      <string>username</string>
+      <string>dbprueba</string>
+    </entry>
+    <entry>
+      <string>password</string>
+      <string>dbprueba</string>
+    </entry>
+    <entry>
+      <string>selectclause</string>
+      <string>id,age,salary,taxes from persons</string>
+    </entry>
+  </dataSourceMetadata>
+  <dictionaryName>sampledata.dict.xml</dictionaryName>
+  <variableToColumnMapping>
+    <entry>
+      <string>b</string>
+      <int>1</int>
+    </entry>
+    <entry>
+      <string>a</string>
+      <int>0</int>
+    </entry>
+    <entry>
+      <string>c</string>
+      <int>2</int>
+    </entry>
+  </variableToColumnMapping>
+</DataSetDefinition>

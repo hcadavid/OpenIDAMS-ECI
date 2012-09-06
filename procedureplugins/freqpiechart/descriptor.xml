@@ -1,0 +1,24 @@
+<procedureDescriptor>
+  <procedureClassName>plugins.procedures.VariableFrequenciesPieChartProcedure</procedureClassName>
+  <procProperties>
+	<name>freqpiechart</name>
+	<parameters>
+		<parameter>
+			<name>dataSetName</name>
+			<type>1</type>
+			<mandatory>true</mandatory>
+		</parameter>
+		<parameter>		
+			<name>variables</name>
+			<type>1</type>
+			<mandatory>true</mandatory>
+		</parameter>
+		<parameter>		
+			<name>intervals</name>
+			<type>1</type>
+			<mandatory>true</mandatory>
+		</parameter>
+	</parameters>
+	<end>end</end>
+  </procProperties>
+</procedureDescriptor>

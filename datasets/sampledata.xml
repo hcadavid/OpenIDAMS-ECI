@@ -1,0 +1,33 @@
+<DataSetDefinition>
+  <dataSetName>sampledata</dataSetName>
+  <dataSourceName>Excel</dataSourceName>
+  <dataSourceMetadata>
+    <entry>
+      <string>fileLocation</string>
+      <string>c:/data/sampledata.xls</string>
+    </entry>
+    <entry>
+      <string>firstRowIndex</string>
+      <string>1</string>
+    </entry>
+    <entry>
+      <string>sheetName</string>
+      <string>Data</string>
+    </entry>
+  </dataSourceMetadata>
+  <dictionaryName>sampledata.dict.xml</dictionaryName>
+  <variableToColumnMapping>
+    <entry>
+      <string>b</string>
+      <int>1</int>
+    </entry>
+    <entry>
+      <string>a</string>
+      <int>0</int>
+    </entry>
+    <entry>
+      <string>c</string>
+      <int>2</int>
+    </entry>
+  </variableToColumnMapping>
+</DataSetDefinition>

@@ -1,0 +1,19 @@
+<procedureDescriptor>
+  <procedureClassName>org.openidams.script.standardprocedures.ListProcedure</procedureClassName>
+  <procProperties>
+	<name>list</name>
+	<parameters>
+		<parameter>
+			<name>InputDataSet</name>
+			<type>1</type>
+			<mandatory>true</mandatory>
+		</parameter>
+		<parameter>
+			<name>variables</name>
+			<type>6</type>
+			<mandatory>false</mandatory>
+		</parameter>
+	</parameters>
+	<end>end</end>
+  </procProperties>
+</procedureDescriptor>

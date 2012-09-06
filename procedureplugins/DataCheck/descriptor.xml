@@ -1,0 +1,14 @@
+<procedureDescriptor>
+  <procedureClassName>plugins.procedures.DataCheck</procedureClassName>
+  <procProperties>
+	<name>check</name>
+	<parameters>
+		<parameter>
+			<name>InputDataSet</name>
+			<type>1</type>
+			<mandatory>true</mandatory>
+		</parameter>
+	</parameters>
+	<end>end</end>	
+  </procProperties>
+</procedureDescriptor>

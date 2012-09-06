@@ -1,0 +1,29 @@
+<DataSetDefinition>
+  <dataSetName>testwids</dataSetName>
+  <dataSourceName>WinIDAMS</dataSourceName>
+  <dataSourceMetadata>
+    <entry>
+      <string>dictfile</string>
+      <string>educ.dic</string>
+    </entry>
+    <entry>
+      <string>datafile</string>
+      <string>educ.dat</string>
+    </entry>
+  </dataSourceMetadata>
+  <dictionaryName>sampledict2.dict.xml</dictionaryName>
+  <variableToColumnMapping>
+    <entry>
+      <string>s</string>
+      <int>2</int>
+    </entry>
+    <entry>
+      <string>r</string>
+      <int>0</int>
+    </entry>
+    <entry>
+      <string>yy</string>
+      <int>4</int>
+    </entry>
+  </variableToColumnMapping>
+</DataSetDefinition>

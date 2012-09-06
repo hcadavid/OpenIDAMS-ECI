@@ -1,0 +1,4 @@
+<Descriptor>
+  <datatableName>MySQL</datatableName>
+  <datatableClassName>plugins.data.MySQLDataTable</datatableClassName>
+</Descriptor>

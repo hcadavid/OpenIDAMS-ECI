@@ -1,0 +1,29 @@
+<procedureDescriptor>
+  <procedureClassName>plugins.procedures.LinearRegression</procedureClassName>
+  <procProperties>
+	<name>Lregression</name>
+	<parameters>
+		<parameter>
+			<name>dataSetName</name>
+			<type>1</type>
+			<mandatory>true</mandatory>
+		</parameter>
+		<parameter>		
+			<name>Dependent</name>
+			<type>1</type>
+			<mandatory>true</mandatory>
+		</parameter>
+		<parameter>		
+			<name>Independent</name>
+			<type>1</type>
+			<mandatory>true</mandatory>
+		</parameter>
+		<parameter>		
+			<name>Graphic</name>
+			<type>1</type>
+			<mandatory>false</mandatory>
+		</parameter>
+	</parameters>
+	<end>end</end>	
+  </procProperties>
+</procedureDescriptor>

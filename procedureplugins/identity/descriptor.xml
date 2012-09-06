@@ -1,0 +1,24 @@
+<procedureDescriptor>
+  <procedureClassName>plugins.procedures.IdentityReportProcedure</procedureClassName>
+  <procProperties>
+	<name>identity</name>
+	<parameters>
+		<parameter>
+			<name>ReportFile</name>
+			<type>1</type>
+			<mandatory>true</mandatory>
+		</parameter>
+		<parameter>
+			<name>InputDataSet</name>
+			<type>1</type>
+			<mandatory>true</mandatory>
+		</parameter>
+		<parameter>
+			<name>OutputDataSet</name>
+			<type>1</type>
+			<mandatory>true</mandatory>
+		</parameter>
+	</parameters>
+	<end>end</end>
+  </procProperties>
+</procedureDescriptor>

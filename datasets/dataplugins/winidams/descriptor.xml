@@ -1,0 +1,4 @@
+<Descriptor>
+  <datatableName>WinIDAMS</datatableName>
+  <datatableClassName>plugins.data.WinIdamsDataFileDataTable</datatableClassName>
+</Descriptor>

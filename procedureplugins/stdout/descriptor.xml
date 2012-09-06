@@ -1,0 +1,14 @@
+<procedureDescriptor>
+  <procedureClassName>org.openidams.script.standardprocedures.StandardOutputProcedure</procedureClassName>
+  <procProperties>
+	<name>stdout</name>
+	<parameters>
+		<parameter>
+			<name>InputDataSet</name>
+			<type>1</type>
+			<mandatory>true</mandatory>
+		</parameter>
+	</parameters>
+	<end>end</end>
+  </procProperties>
+</procedureDescriptor>

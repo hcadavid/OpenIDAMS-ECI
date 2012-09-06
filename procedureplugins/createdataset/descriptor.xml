@@ -1,0 +1,19 @@
+<procedureDescriptor>
+  <procedureClassName>org.openidams.script.standardprocedures.EmptyDataSetCreationProcedure</procedureClassName>
+  <procProperties>
+	<name>createdataset</name>
+	<parameters>
+		<parameter>
+			<name>dataSetName</name>
+			<type>1</type>
+			<mandatory>true</mandatory>
+		</parameter>
+		<parameter>		
+			<name>dataFileName</name>
+			<type>1</type>
+			<mandatory>true</mandatory>
+		</parameter>
+	</parameters>
+	<end>end</end>
+  </procProperties>
+</procedureDescriptor>

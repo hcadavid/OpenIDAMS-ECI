@@ -1,0 +1,29 @@
+<procedureDescriptor>
+  <procedureClassName>plugins.procedures.SortProcedure</procedureClassName>
+  <procProperties>
+	<name>sort</name>
+	<parameters>
+		<parameter>
+			<name>InputDataSet</name>
+			<type>1</type>
+			<mandatory>true</mandatory>
+		</parameter>
+		<parameter>
+			<name>OutputDataSetName</name>
+			<type>1</type>
+			<mandatory>true</mandatory>
+		</parameter>
+		<parameter>
+			<name>Var</name>
+			<type>1</type>
+			<mandatory>true</mandatory>
+		</parameter>
+		<parameter>
+			<name>Mode</name>
+			<type>1</type>
+			<mandatory>false</mandatory>
+		</parameter>
+	</parameters>
+	<end>end</end>	
+  </procProperties>
+</procedureDescriptor>
